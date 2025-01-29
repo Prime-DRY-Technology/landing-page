@@ -483,7 +483,7 @@ section.portfolio .flex {
     border: none;
     border-radius: 5px;
     background-color: #1e1e1e;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .contact-form button {
