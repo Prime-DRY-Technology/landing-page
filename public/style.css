@@ -140,7 +140,7 @@ header nav.menu-desktop ul li {
 }
 
 .menu-mobile nav ul li a {
-    color: #fff;
+    color:#5c5c5c;
     font-size: 20px;
     font-weight: 300;
     padding: 20px 8%;
@@ -149,7 +149,7 @@ header nav.menu-desktop ul li {
 
 .menu-mobile nav ul li a:hover {
     background-color: #15e31f;
-    color: #000;
+    color: #ffffff;
 }
 
 .overlay-menu {
@@ -492,7 +492,7 @@ section.portfolio .flex {
     border: none;
     border-radius: 5px;
     background-color: #15e31f;
-    color: rgb(255, 255, 255);
+    color: rgb(1, 1, 1);
     cursor: pointer;
     font-weight: bold;
     transition: background-color 0.3s ease;
